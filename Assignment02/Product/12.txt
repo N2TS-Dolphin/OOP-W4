@@ -1,0 +1,1 @@
+ID = 12, Name = Dell XPS 17.3 inches, Price = 39000000.

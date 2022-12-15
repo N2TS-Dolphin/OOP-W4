@@ -1,0 +1,1 @@
+ID = 3, Name = MSI Alpha 14 inches, Price = 22000000.

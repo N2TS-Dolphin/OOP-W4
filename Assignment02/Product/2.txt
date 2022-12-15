@@ -1,0 +1,1 @@
+ID = 2, Name = Asus TUF Gaming 16.1 inches, Price = 50000000.

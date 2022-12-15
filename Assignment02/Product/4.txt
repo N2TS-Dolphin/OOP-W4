@@ -1,0 +1,1 @@
+ID = 4, Name = MSI Bravo 13.3 inches, Price = 16000000.

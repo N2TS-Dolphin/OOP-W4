@@ -1,0 +1,1 @@
+ID = 8, Name = Apple Macbook Pro 13.3 inches, Price = 18000000.
